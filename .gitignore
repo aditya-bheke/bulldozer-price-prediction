@@ -1,0 +1,20 @@
+# Ignore dataset
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth

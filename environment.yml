@@ -1,0 +1,6 @@
+name: bulldozer_price_prediction_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: D:\ML-Projects\heart-disease-project\env
